@@ -2,7 +2,7 @@ package sendmail
 
 import (
 	"encoding/base64"
-	"log"
+// 	"log"
 	"net/smtp"
 	"strings"
 )
